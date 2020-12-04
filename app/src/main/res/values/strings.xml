@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BBCharacter</string>
+    <string name="database">BBCharacter</string>
+    <string name="Name">Name : %s</string>
+    <string name="nick_name">Nick Name : %s</string>
+    <string name="status">Status : %s</string>
+</resources>
